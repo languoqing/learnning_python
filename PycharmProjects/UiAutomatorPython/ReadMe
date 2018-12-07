@@ -1,0 +1,19 @@
+1、安装UiAutomator2 模块
+pip install --pre -U uiautomator2
+
+Optionally, pillow is needed to process screenshot data.
+
+
+
+2、设备安装atx-agent
+# 从github下载atx-agent文件，并推送到手机。在手机上安装包名为`com.github.uiautomator`的apk
+$ python -m uiautomator2 init
+succes
+
+会自动安装本库所需要的设备端程序：uiautomator-server 、atx-agent、openstf/minicap、openstf/minitouch
+
+3、基于浏览器技术的weditor UI查看器。https://github.com/openatx/weditor
+
+pip install --pre -U weditor
+
+python -m weditor  会自动打开浏览器，输入设备的ip或者序列号，点击Connect即可
