@@ -6,7 +6,7 @@ import os
 import time
 
 #webdriver 添加到执行
-webdriver_chrom = "D:\selenium\chromedriver_win32\chromedriver.exe"
+webdriver_chrom = "D:\selenium\chromedriver.exe"
 os.environ['webdriver-chrom'] = webdriver_chrom
 #去掉浏览器顶部窗口报错
 optinos = webdriver.ChromeOptions()

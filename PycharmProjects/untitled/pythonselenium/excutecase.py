@@ -1,4 +1,4 @@
-from pythonselenium.beforgame import getChromObj
+from untitled.pythonselenium.beforgame import getChromObj
 from selenium.webdriver.support import wait
 from selenium.webdriver.common.action_chains import ActionChains
 import time
