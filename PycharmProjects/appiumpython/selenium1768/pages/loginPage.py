@@ -7,11 +7,16 @@ from selenium.webdriver.common.by import By
 class LoginPage(Base):
     
     #登录元素
+    txz = (By.XPATH,"/html/body/div[3]/div[1]/span[1]")
+    wlt = (By.CLASS_NAME,"wlt current")
     txz_username = (By.ID,"unamePa")
     txz_password = (By.ID,"pwdPa")
     wlt_username = (By.ID,"loginName")
     wlt_password = (By.ID,"pwdWlt")
     login_btn = (By.ID,"id_login")
+    #登录失败浮层
+    login_false = (By.ID,"popupBox")
+
     #登录第三方元素
     sina = (By.CLASS_NAME, "sina")
     tencenqq = (By.CLASS_NAME, "qq")

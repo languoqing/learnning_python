@@ -19,7 +19,7 @@ class Base(object):
         """
         return self.driver.find_element(*loctor)
     
-    def click(self,loctor):
+    def click(self,*loctor):
         """
         
         :param loctor the loctor mast be clickabel:
@@ -27,7 +27,7 @@ class Base(object):
         """
         return self.find_element(*loctor).click()
     
-    def send(self,loctor,message):
+    def send(self,message,*loctor):
         return self.find_element(*loctor).send_keys(message)
     
     def clearInput(self,inputloctor):
