@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8925ab-d775-4136-a066-b75e75555968" name="Default Changelist" comment="万年历&#10;&#10;(cherry picked from commit 2cd626d6a1197a2bfd333c586f8716b9d3e0a2af)">
-      <change afterPath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/ReadMe" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/ReadMe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/caseresult.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/caseresult.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/pages/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/pages/loginPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/report/caserepot.html" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/report/caserepot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/RedeMe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/loginCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/login_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appiumpython/test22.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/test22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,8 +74,8 @@
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -91,13 +83,13 @@
           <entry key="ReadMe" value="29" />
           <entry key="RedeMe" value="27" />
           <entry key="dummy" value="11" />
-          <entry key="py" value="2602" />
+          <entry key="py" value="3306" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="67" />
-          <entry key="Python" value="2602" />
+          <entry key="Python" value="3306" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -106,7 +98,7 @@
           <entry key="ReadMe" value="3" />
           <entry key="RedeMe" value="2" />
           <entry key="html" value="2" />
-          <entry key="py" value="30" />
+          <entry key="py" value="35" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -114,7 +106,7 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="30" />
+          <entry key="Python" value="35" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -128,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/loginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="-57">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
               <folding>
                 <element signature="e#24#75#0" expanded="true" />
                 <marker date="1545104015843" expanded="true" signature="647:652" ph="..." />
@@ -141,13 +133,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+            <state relative-caret-position="110">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
               <folding>
                 <element signature="e#24#75#0" expanded="true" />
-                <marker date="1545119803629" expanded="true" signature="159:164" ph="..." />
-                <marker date="1545119803629" expanded="true" signature="159:621" ph="..." />
-                <marker date="1545119803629" expanded="true" signature="1088:1097" ph="..." />
+                <marker date="1545205474037" expanded="true" signature="159:164" ph="..." />
+                <marker date="1545205474037" expanded="true" signature="159:661" ph="..." />
+                <marker date="1545205474037" expanded="true" signature="1128:1137" ph="..." />
               </folding>
             </state>
           </provider>
@@ -156,26 +148,64 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="14" column="59" lean-forward="true" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+            <state relative-caret-position="228">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding>
                 <element signature="e#22#37#0" expanded="true" />
-                <marker date="1545120491827" expanded="true" signature="191:192" ph="..." />
-                <marker date="1545120491827" expanded="true" signature="191:197" ph="..." />
-                <marker date="1545120491827" expanded="true" signature="632:641" ph="..." />
-                <marker date="1545120491827" expanded="true" signature="696:1166" ph="..." />
-                <marker date="1545120491827" expanded="true" signature="901:906" ph="..." />
-                <marker date="1545120491827" expanded="true" signature="901:910" ph="..." />
+                <element signature="e#970#1060#0" />
+                <marker date="1545205924661" expanded="true" signature="235:236" ph="..." />
+                <marker date="1545205924661" expanded="true" signature="235:241" ph="..." />
+                <marker date="1545205924661" expanded="true" signature="728:990" ph="..." />
+                <marker date="1545205924661" expanded="false" signature="1014:1023" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/appiumpython/test22.py">
+        <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-643338342/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="70">
+              <caret line="2609" column="7" lean-forward="true" selection-start-line="2609" selection-start-column="7" selection-end-line="2609" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#788#847#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="241" selection-start-line="241" selection-end-line="241" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="446" column="8" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python/Lib/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="681" column="19" selection-start-line="681" selection-start-column="8" selection-end-line="681" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -183,7 +213,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/login_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="426">
               <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
               <folding>
                 <element signature="e#24#87#0" expanded="true" />
@@ -202,42 +232,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="91">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
-                <marker date="1545119894271" expanded="true" signature="44:49" ph="..." />
-                <marker date="1545119894271" expanded="true" signature="239:289" ph="..." />
+                <marker date="1545205903359" expanded="true" signature="44:49" ph="..." />
+                <marker date="1545205903359" expanded="true" signature="239:289" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1459">
-              <caret line="858" column="26" selection-start-line="858" selection-start-column="8" selection-end-line="858" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/caseresult.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
-              <folding>
-                <marker date="1545114901824" expanded="true" signature="207:212" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/ReadMe">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -264,6 +264,7 @@
       <find>StringI</find>
       <find>ipt_yazhu</find>
       <find>NoSuchElementException</find>
+      <find>assertTrue</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -320,14 +321,14 @@
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/testCases/RedeMe" />
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/ReadMe" />
         <option value="$PROJECT_DIR$/appiumpython/test22.py" />
+        <option value="$PROJECT_DIR$/appiumpython/selenium1768/testCases/login_case.py" />
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py" />
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py" />
-        <option value="$PROJECT_DIR$/appiumpython/selenium1768/testCases/login_case.py" />
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -342,7 +343,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -386,6 +386,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,28 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin">
-    <configuration name="test22" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appiumpython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appiumpython/test22.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet">
     <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_gamepage" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -452,6 +432,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appiumpython/selenium1768/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -485,18 +479,18 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" />
-      <item itemvalue="Python.test22" />
       <item itemvalue="Python tests.Unittests for login_case.LoginTest.test_loginQQ" />
       <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_gamepage" />
       <item itemvalue="Python tests.Unittests in game_yaoyiyao_case.py" />
+      <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" />
+        <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" />
         <item itemvalue="Python tests.Unittests in game_yaoyiyao_case.py" />
+        <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" />
         <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_gamepage" />
         <item itemvalue="Python tests.Unittests for login_case.LoginTest.test_loginQQ" />
-        <item itemvalue="Python.test22" />
       </list>
     </recent_temporary>
   </component>
@@ -522,35 +516,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_isgamelogin - 2018.12.18 at 15h 44m 00s.xml">
-      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 36m 23s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_gamepage - 2018.12.18 at 15h 45m 47s.xml">
-      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_gamepage" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 37m 16s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_isgamelogin - 2018.12.18 at 15h 46m 44s.xml">
-      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 38m 04s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_isgamelogin - 2018.12.18 at 15h 46m 58s.xml">
-      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 39m 45s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_isgamelogin - 2018.12.18 at 15h 47m 52s.xml">
-      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 42m 38s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_isgamelogin - 2018.12.18 at 15h 48m 49s.xml">
-      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 43m 40s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_game_yaoyiyao_case_py - 2018.12.18 at 15h 49m 30s.xml">
-      <configuration name="Unittests in game_yaoyiyao_case.py" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 45m 09s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_game_yaoyiyao_case_py - 2018.12.18 at 15h 54m 12s.xml">
-      <configuration name="Unittests in game_yaoyiyao_case.py" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 47m 11s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_game_yaoyiyao_case_py - 2018.12.18 at 15h 56m 59s.xml">
-      <configuration name="Unittests in game_yaoyiyao_case.py" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 50m 33s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_isgamelogin - 2018.12.18 at 15h 58m 22s.xml">
-      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" configurationId="tests" />
+    <history-entry file="Unittests_for_game_yaoyiyao_case_YaoyiyaoGameTest_test_wrongbet - 2018.12.19 at 15h 52m 32s.xml">
+      <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="1">
@@ -573,12 +567,12 @@
       <window_info id="Job Explorer" order="5" sideWeight="0.41467577" weight="0.3296131" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49776787" weight="0.44615385" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3686007" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49776787" visible="true" weight="0.44615385" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36752138" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32820514" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32991454" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.8888889" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49776787" weight="0.2957265" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32820514" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50223213" side_tool="true" weight="0.32935154" />
@@ -660,13 +654,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://D:/Python/Lib/site-packages/selenium/webdriver/__init__.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -737,24 +724,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/command.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="160" column="26" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -836,13 +809,6 @@
     <entry file="file://$PROJECT_DIR$/leetcode/lastRemaining.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://D:/Python/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6885">
-          <caret line="688" column="36" selection-start-line="688" selection-start-column="26" selection-end-line="688" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/appiumpython/redcenterMahjongTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -890,16 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="816" column="18" selection-start-line="816" selection-start-column="7" selection-end-line="816" selection-end-column="18" />
-          <folding>
-            <element signature="e#3215#3230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-643338342/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="5280" column="8" selection-start-line="5280" selection-start-column="8" selection-end-line="5280" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -907,45 +863,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#4;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7729#7734#0" expanded="true" />
-            <element signature="e#7809#7814#0" expanded="true" />
-            <element signature="e#7832#7837#0" expanded="true" />
-            <element signature="e#7849#7854#0" expanded="true" />
-            <element signature="e#7868#7873#0" expanded="true" />
-            <element signature="e#8015#8020#0" expanded="true" />
-            <element signature="e#8041#8046#0" expanded="true" />
-            <element signature="e#8053#8058#0" expanded="true" />
-            <element signature="e#8127#8132#0" expanded="true" />
-            <element signature="e#8187#8192#0" expanded="true" />
-            <element signature="e#8203#8208#0" expanded="true" />
-            <element signature="e#8214#8219#0" expanded="true" />
-            <element signature="e#8554#8559#0" expanded="true" />
-            <element signature="e#8634#8639#0" expanded="true" />
-            <element signature="e#8657#8662#0" expanded="true" />
-            <element signature="e#8674#8679#0" expanded="true" />
-            <element signature="e#8693#8698#0" expanded="true" />
-            <element signature="e#8840#8845#0" expanded="true" />
-            <element signature="e#8866#8871#0" expanded="true" />
-            <element signature="e#8878#8883#0" expanded="true" />
-            <element signature="e#8952#8957#0" expanded="true" />
-            <element signature="e#9012#9017#0" expanded="true" />
-            <element signature="e#9028#9033#0" expanded="true" />
-            <element signature="e#9039#9044#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#9877#9883#1" expanded="true" />
-            <element signature="e#9922#9928#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/RedeMe">
+    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/RedeMe" />
+    <entry file="file://$PROJECT_DIR$/appiumpython/test22.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -962,69 +887,13 @@
     <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/ReadMe">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appiumpython/test22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/loginPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="e#24#75#0" expanded="true" />
-            <marker date="1545104015843" expanded="true" signature="647:652" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-          <folding>
-            <element signature="e#24#75#0" expanded="true" />
-            <marker date="1545119803629" expanded="true" signature="159:164" ph="..." />
-            <marker date="1545119803629" expanded="true" signature="159:621" ph="..." />
-            <marker date="1545119803629" expanded="true" signature="1088:1097" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1459">
-          <caret line="858" column="26" selection-start-line="858" selection-start-column="8" selection-end-line="858" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <marker date="1545119894271" expanded="true" signature="44:49" ph="..." />
-            <marker date="1545119894271" expanded="true" signature="239:289" ph="..." />
-          </folding>
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/login_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
+        <state relative-caret-position="426">
           <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
           <folding>
             <element signature="e#24#87#0" expanded="true" />
@@ -1039,18 +908,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#75#0" expanded="true" />
+            <marker date="1545104015843" expanded="true" signature="647:652" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="446" column="8" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#788#847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="312" column="55" lean-forward="true" selection-start-line="312" selection-start-column="55" selection-end-line="312" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="681" column="19" selection-start-line="681" selection-start-column="8" selection-end-line="681" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <marker date="1545205903359" expanded="true" signature="44:49" ph="..." />
+            <marker date="1545205903359" expanded="true" signature="239:289" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-643338342/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2609" column="7" lean-forward="true" selection-start-line="2609" selection-start-column="7" selection-end-line="2609" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#75#0" expanded="true" />
+            <marker date="1545205474037" expanded="true" signature="159:164" ph="..." />
+            <marker date="1545205474037" expanded="true" signature="159:661" ph="..." />
+            <marker date="1545205474037" expanded="true" signature="1128:1137" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="14" column="59" lean-forward="true" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        <state relative-caret-position="228">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="e#22#37#0" expanded="true" />
-            <marker date="1545120491827" expanded="true" signature="191:192" ph="..." />
-            <marker date="1545120491827" expanded="true" signature="191:197" ph="..." />
-            <marker date="1545120491827" expanded="true" signature="632:641" ph="..." />
-            <marker date="1545120491827" expanded="true" signature="696:1166" ph="..." />
-            <marker date="1545120491827" expanded="true" signature="901:906" ph="..." />
-            <marker date="1545120491827" expanded="true" signature="901:910" ph="..." />
+            <element signature="e#970#1060#0" />
+            <marker date="1545205924661" expanded="true" signature="235:236" ph="..." />
+            <marker date="1545205924661" expanded="true" signature="235:241" ph="..." />
+            <marker date="1545205924661" expanded="true" signature="728:990" ph="..." />
+            <marker date="1545205924661" expanded="false" signature="1014:1023" ph="..." />
           </folding>
         </state>
       </provider>

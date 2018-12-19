@@ -11,12 +11,16 @@ class GameYaoYiYao(Base):
     addamount_btn = (By.XPATH,"/html/body/div[3]/div[7]/div/div[1]/span[2]")
     cutamount_btn = (By.XPATH,"/html/body/div[3]/div[7]/div/div[1]/span[1]")
     #押注输入区域
-    yz_input = (By.XPATH,r'//*[@id="ipt_yazhu"]')
+    yz_input = (By.ID,"ipt_yazhu")
     maxamount_btn = (By.ID,"maxBet")
     cz_btn = (By.XPATH,"/html/body/div[3]/div[7]/div/div[2]/span[2]")
     bet_btn = (By.ID,"start")
     #余额区域
     yue_loctor = (By.ID,"YconRemaining")
+    
+    #金额不足提示弹框
+    up_box = (By.ID,"tsInfor")
+    
     
     def __init__(self,driver):
         super(GameYaoYiYao,self).__init__(driver)
@@ -37,9 +41,10 @@ class GameYaoYiYao(Base):
         self.click(*self.cutamount_btn)
         
     def inputAmout(self,value):
-        #先清除再发送
+        #先清除再发送,value must be a string
         self.clearInput(*self.yz_input)
-        self.send(*self.yz_input,value)
+        time.sleep(2)
+        self.send(value,*self.yz_input)
         
     def betClick(self):
         #获取这个btn的class属性值
