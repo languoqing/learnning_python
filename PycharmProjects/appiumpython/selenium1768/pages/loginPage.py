@@ -32,16 +32,16 @@ class LoginPage(Base):
      #登录操作
     def lgin(self,userloctor,pwdloctor,user,pwd):
         print("输入用户名，user:{}".format(user))
-        self.send(userloctor,user)
+        self.send(*userloctor,user)
         print("输入密码，pwd:{}".format(pwd))
-        self.send(pwdloctor,pwd)
+        self.send(*pwdloctor,pwd)
         print("开始登录")
         self.click(self.login_btn)
         
     #第三方登录
     def otherLogin(self,otherloginBtn):
         print("点击按钮 {}".format(otherloginBtn))
-        self.click(otherloginBtn)
+        self.click(*otherloginBtn)
         
         
 

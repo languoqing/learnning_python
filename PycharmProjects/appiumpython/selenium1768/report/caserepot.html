@@ -189,9 +189,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2018-12-17 17:21:56</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:24.316987</p>
-<p class='attribute'><strong>Status:</strong> Pass 2 Failure 1</p>
+<p class='attribute'><strong>Start Time:</strong> 2018-12-18 11:05:41</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:33.402247</p>
+<p class='attribute'><strong>Status:</strong> Pass 3 Failure 1</p>
 
 <p class='description'>执行情况</p>
 </div>
@@ -223,11 +223,11 @@ function showOutput(id, name) {
 
 <tr class='failClass'>
     <td>loginCase.LoginTest</td>
+    <td>4</td>
     <td>3</td>
-    <td>2</td>
     <td>1</td>
     <td>0</td>
-    <td><a href="javascript:showClassDetail('c1',3)">Detail</a></td>
+    <td><a href="javascript:showClassDetail('c1',4)">Detail</a></td>
 </tr>
 
 <tr id='pt1.1' class='hiddenRow'>
@@ -254,22 +254,46 @@ pt1.1:
     </td>
 </tr>
 
-<tr id='ft1.2' class='none'>
-    <td class='failCase'><div class='testcase'>test_txzlogin</div></td>
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_loginQQ</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.2')" >
-        fail</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        pass</a>
 
-    <div id='div_ft1.2' class="popup_window">
+    <div id='div_pt1.2' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.2').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.2: Traceback (most recent call last):
+pt1.2: 
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='ft1.3' class='none'>
+    <td class='failCase'><div class='testcase'>test_txzlogin</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.3')" >
+        fail</a>
+
+    <div id='div_ft1.3' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.3').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+ft1.3: Traceback (most recent call last):
   File "D:\gitDir\PycharmProjects\appiumpython\selenium1768\testCases\loginCase.py", line 35, in test_txzlogin
     self.assertIn("//m.1768.com",self.driver.current_url)
 AssertionError: '//m.1768.com' not found in 'https://passport.1768.com/pass-info/oauth2/login.view?client_id=IN_000005&amp;redirect_uri=http%3A%2F%2Fm.1768.com%2F%3Fact%3Dlogin%26st%3Dlogin_callback&amp;response_type=code&amp;platform=IOS&amp;display=mobile&amp;state=eyJzdGF0ZSI6ImVmNTA0NDA0OTc2ZDUxYWZjNTAxNTI0YTM5YzhlMDcyIiwiZnJvbSI6IiIsImFwcGtleSI6IiIsInNlcnZlcklkIjoiIiwibG9naW5Tb3VyY2UiOiIifQ%3D%3D&amp;media_source=game_wap&amp;isapp=1&amp;back_url=http%3A%2F%2Fm.1768.com%2F%3Fact%3Dgame_shaizile%26abeam%3D0&amp;otherLogin=QQ%7CWEIBO%7CWEIXIN%7CYIQIANBAO%7CHAOYISHENG&amp;back_flag=1&amp;mamc=1&amp;gohome_url='
@@ -286,22 +310,22 @@ AssertionError: '//m.1768.com' not found in 'https://passport.1768.com/pass-info
     </td>
 </tr>
 
-<tr id='pt1.3' class='hiddenRow'>
+<tr id='pt1.4' class='hiddenRow'>
     <td class='none'><div class='testcase'>test_url</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.3')" >
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.4')" >
         pass</a>
 
-    <div id='div_pt1.3' class="popup_window">
+    <div id='div_pt1.4' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.3').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.4').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-pt1.3: 
+pt1.4: 
 
         </pre>
     </div>
@@ -312,8 +336,8 @@ pt1.3:
 
 <tr id='total_row'>
     <td>Total</td>
+    <td>4</td>
     <td>3</td>
-    <td>2</td>
     <td>1</td>
     <td>0</td>
     <td>&nbsp;</td>

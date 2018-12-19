@@ -12,7 +12,7 @@ casedir = os.path.join(os.getcwd(),"testCases")
 reportdir = os.path.join(os.getcwd(),"report")
 
 def import_case():
-    allcase = unittest.defaultTestLoader.discover(casedir,pattern = '*Case.py')
+    allcase = unittest.defaultTestLoader.discover(casedir,pattern = '*case.py')
     return allcase
 
 if __name__ == '__main__':
