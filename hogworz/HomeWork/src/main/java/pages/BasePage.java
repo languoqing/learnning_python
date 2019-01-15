@@ -1,6 +1,7 @@
 package pages;
 
 import driver.Driver;
+import io.appium.java_client.android.AndroidElement;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
@@ -11,7 +12,7 @@ public class BasePage {
      * @param loc
      * @return WebElement
      */
-    public WebElement find(By loc){
+    public AndroidElement find(By loc){
         return Driver.getdriver().findElement(loc);
     }
 

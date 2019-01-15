@@ -1,6 +1,7 @@
 package PageTest;
 
 import DataParams.SearchData;
+import DataParams.SelectData;
 import driver.Driver;
 import io.appium.java_client.android.AndroidElement;
 import org.openqa.selenium.WebElement;
@@ -12,7 +13,7 @@ import pages.MainPage;
 import pages.SearchPage;
 
 import java.util.ArrayList;
-import java.util.Arrays;
+
 import java.util.List;
 
 public class SearchTest {
@@ -26,14 +27,21 @@ public class SearchTest {
     }
 
     @Test(dataProvider = "seacherData",dataProviderClass = SearchData.class)
-    public void findStockTest(String stockname, String excpt){
+    public void findStockTest(String Stockname, String excpt){
         ArrayList<String> re = new ArrayList<String>();
-        List<AndroidElement> stocks = seacherPage.findStock(stockname);
+        List<AndroidElement> stocks = seacherPage.findStock(Stockname);
         for(int i=0;i<stocks.size();i++){
             String ElementText = stocks.get(i).getText();
             re.add(ElementText);
         }
         Assert.assertTrue(re.contains(excpt));
+
+    }
+
+    @Test(dataProvider = "selectedTest",dataProviderClass = SelectData.class)
+    public void isSelectedTest(String StockName,String excpt){
+        ArrayList<String> Elements = seacherPage.isSelected(StockName);
+        Assert.assertTrue(Elements.contains(excpt));
 
     }
 

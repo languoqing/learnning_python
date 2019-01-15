@@ -4,7 +4,6 @@ import driver.Driver;
 import org.openqa.selenium.By;
 
 import java.net.MalformedURLException;
-import java.sql.Time;
 import java.util.concurrent.TimeUnit;
 
 public class MainPage extends BasePage {
