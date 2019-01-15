@@ -3,10 +3,9 @@ package pages;
 import io.appium.java_client.android.AndroidElement;
 import org.openqa.selenium.By;
 import driver.Driver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.NoSuchElementException;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class SearchPage extends BasePage{
@@ -34,14 +33,26 @@ public class SearchPage extends BasePage{
      * 股票查找出来后自选操作
      */
     public ArrayList<String> isSelected(String key){
-        List<AndroidElement> Result = this.findStock(key);
+        this.findStock(key);
         ArrayList<String> Elements = new ArrayList<String>();
-        if(find(Select) == null){
+        /*if(find(Select) == null){
             find(Selected).click();
             Elements.add(find(Select).getAttribute("resourceId"));
             find(Select).click();
             Elements.add(find(Selected).getAttribute("resourceId"));
         }else {
+            find(Select).click();
+            Elements.add(find(Selected).getAttribute("resourceId"));
+            find(Selected).click();
+            Elements.add(find(Select).getAttribute("resourceId"));
+        }*/
+        try{
+            find(Selected).click();
+            Elements.add(find(Select).getAttribute("resourceId"));
+            find(Select).click();
+            Elements.add(find(Selected).getAttribute("resourceId"));
+        }catch (NoSuchElementException e){
+            System.out.printf("有元素未找到");
             find(Select).click();
             Elements.add(find(Selected).getAttribute("resourceId"));
             find(Selected).click();
