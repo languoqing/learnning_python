@@ -1,12 +1,13 @@
 package driver;
 
 import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.AndroidElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import java.net.MalformedURLException;
 import java.net.URL;
 
 public class Driver {
-    private static AndroidDriver driver;
+    private static AndroidDriver<AndroidElement> driver;
 
     public static void start() throws MalformedURLException {
         DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
@@ -21,6 +22,10 @@ public class Driver {
         URL remoteUrl = new URL("http://172.21.12.105:4723/wd/hub");
 
         driver = new AndroidDriver(remoteUrl, desiredCapabilities);
+    }
+
+    public static AndroidDriver<AndroidElement> getdriver(){
+        return driver;
     }
 
     public static void quit() {

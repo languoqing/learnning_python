@@ -1,3 +1,5 @@
+package PageTest;
+
 import org.junit.Test;
 import driver.Driver;
 
@@ -12,7 +14,7 @@ public class DriverTest {
             e.printStackTrace();
         }
         finally {
-
+            Driver.quit();
         }
     }
 }
