@@ -12,7 +12,9 @@
       <change beforePath="$PROJECT_DIR$/../../PycharmProjects/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,21 +29,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+            <state relative-caret-position="119">
+              <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1053#1061#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/JAVA/jdk/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -49,59 +41,67 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-end-line="32" />
+            <state relative-caret-position="233">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.1.0/java-client-6.1.0.jar!/org/openqa/selenium/WebElement.class">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/SearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="402">
+              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/SearchTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/ZiXuanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+            <state relative-caret-position="150">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#809#817#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#1313#1314#0" expanded="true" />
+                <element signature="e#1334#1335#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/Test.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="127">
-              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+              <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/DetailsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
               <folding>
-                <element signature="e#815#816#0" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DataParams/SelectData.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DataParams/ZiXuanData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="133">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -109,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="18" column="16" lean-forward="true" selection-end-line="35" />
+            <state relative-caret-position="136">
+              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/DriverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="95">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DataParams/SearchData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="28" selection-end-line="15" />
+            <state relative-caret-position="133">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -158,16 +158,20 @@
         <option value="$PROJECT_DIR$/src/test/java/DriverTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SearchTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/driver/Driver.java" />
         <option value="$PROJECT_DIR$/src/test/java/PageTest/common.java" />
         <option value="$PROJECT_DIR$/src/test/java/common/Common.java" />
         <option value="$PROJECT_DIR$/src/test/java/DataParams/SearchData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/DataParams/SelectData.java" />
         <option value="$PROJECT_DIR$/src/test/java/PageTest/SearchTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ZiXuanPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DataParams/ZiXuanData.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/DetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageTest/ZiXuanTest.java" />
       </list>
     </option>
   </component>
@@ -258,7 +262,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547563774865" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547708225144" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../AppiumTesting7" />
   </component>
   <component name="RunDashboard">
@@ -273,25 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SearchTest">
-    <configuration name="DriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork" />
-      <option name="PACKAGE_NAME" value="PageTest" />
-      <option name="MAIN_CLASS_NAME" value="PageTest.DriverTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DriverTest.DriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork" />
-      <option name="PACKAGE_NAME" value="PageTest" />
-      <option name="MAIN_CLASS_NAME" value="PageTest.DriverTest" />
-      <option name="METHOD_NAME" value="DriverTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.ZiXuanTest">
     <configuration name="SearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <extension name="coverage">
@@ -302,18 +288,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="PageTest" />
       <option name="MAIN_CLASS_NAME" value="PageTest.SearchTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchTest.findStockTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PageTest.SearchTest" />
-      <option name="METHOD_NAME" value="findStockTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -338,13 +312,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZiXuanTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageTest" />
+      <option name="MAIN_CLASS_NAME" value="PageTest.ZiXuanTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZiXuanTest.addZiXuanTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageTest" />
+      <option name="MAIN_CLASS_NAME" value="PageTest.ZiXuanTest" />
+      <option name="METHOD_NAME" value="addZiXuanTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZiXuanTest.deleteZiXuanTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageTest" />
+      <option name="MAIN_CLASS_NAME" value="PageTest.ZiXuanTest" />
+      <option name="METHOD_NAME" value="deleteZiXuanTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ZiXuanTest" />
+        <item itemvalue="TestNG.ZiXuanTest.deleteZiXuanTest" />
+        <item itemvalue="TestNG.ZiXuanTest.addZiXuanTest" />
         <item itemvalue="TestNG.SearchTest" />
         <item itemvalue="TestNG.SearchTest.isSelectedTest" />
-        <item itemvalue="TestNG.SearchTest.findStockTest" />
-        <item itemvalue="JUnit.DriverTest" />
-        <item itemvalue="JUnit.DriverTest.DriverTest" />
       </list>
     </recent_temporary>
   </component>
@@ -362,42 +388,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchTest_isSelectedTest - 2019.01.15 at 17h 27m 24s.xml">
-      <configuration name="SearchTest.isSelectedTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest_addZiXuanTest - 2019.01.17 at 14h 15m 19s.xml">
+      <configuration name="ZiXuanTest.addZiXuanTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest_isSelectedTest - 2019.01.15 at 17h 28m 28s.xml">
-      <configuration name="SearchTest.isSelectedTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest_addZiXuanTest - 2019.01.17 at 14h 16m 57s.xml">
+      <configuration name="ZiXuanTest.addZiXuanTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest_isSelectedTest - 2019.01.15 at 17h 29m 23s.xml">
-      <configuration name="SearchTest.isSelectedTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest_addZiXuanTest - 2019.01.17 at 14h 19m 33s.xml">
+      <configuration name="ZiXuanTest.addZiXuanTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest_isSelectedTest - 2019.01.15 at 17h 30m 31s.xml">
-      <configuration name="SearchTest.isSelectedTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest_addZiXuanTest - 2019.01.17 at 14h 25m 50s.xml">
+      <configuration name="ZiXuanTest.addZiXuanTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest_isSelectedTest - 2019.01.15 at 22h 03m 11s.xml">
-      <configuration name="SearchTest.isSelectedTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest_addZiXuanTest - 2019.01.17 at 14h 27m 23s.xml">
+      <configuration name="ZiXuanTest.addZiXuanTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest_isSelectedTest - 2019.01.15 at 22h 06m 12s.xml">
-      <configuration name="SearchTest.isSelectedTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest_addZiXuanTest - 2019.01.17 at 14h 28m 42s.xml">
+      <configuration name="ZiXuanTest.addZiXuanTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest - 2019.01.15 at 22h 07m 20s.xml">
-      <configuration name="SearchTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest_addZiXuanTest - 2019.01.17 at 14h 31m 51s.xml">
+      <configuration name="ZiXuanTest.addZiXuanTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest_findStockTest - 2019.01.15 at 22h 45m 48s.xml">
-      <configuration name="SearchTest.findStockTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest_deleteZiXuanTest - 2019.01.17 at 14h 32m 46s.xml">
+      <configuration name="ZiXuanTest.deleteZiXuanTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest_isSelectedTest - 2019.01.15 at 22h 46m 32s.xml">
-      <configuration name="SearchTest.isSelectedTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest - 2019.01.17 at 14h 34m 49s.xml">
+      <configuration name="ZiXuanTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchTest_isSelectedTest - 2019.01.15 at 22h 48m 14s.xml">
-      <configuration name="SearchTest.isSelectedTest" configurationId="TestNG" />
+    <history-entry file="ZiXuanTest - 2019.01.17 at 14h 36m 01s.xml">
+      <configuration name="ZiXuanTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -449,13 +475,6 @@
             <element signature="e#1374#1375#0" expanded="true" />
             <element signature="e#1403#1404#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -512,13 +531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/common.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/common.java" />
     <entry file="jar://D:/JAVA/jdk/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -526,18 +539,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/Common.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/Common.java" />
     <entry file="jar://D:/JAVA/jdk/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -574,17 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.1.0/java-client-6.1.0.jar!/io/appium/java_client/AppiumDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
-          <folding>
-            <element signature="e#4201#4202#0" expanded="true" />
-            <element signature="e#4246#4247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.1.0/java-client-6.1.0.jar!/org/openqa/selenium/WebElement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -599,9 +590,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.1.0/java-client-6.1.0.jar!/io/appium/java_client/AppiumDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+          <folding>
+            <element signature="e#4201#4202#0" expanded="true" />
+            <element signature="e#4246#4247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
+        <state relative-caret-position="110">
           <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding>
             <element signature="e#815#816#0" expanded="true" />
@@ -610,42 +612,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/BasePage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ZiXuanPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="18" column="16" lean-forward="true" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/DriverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DataParams/SearchData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="28" selection-end-line="15" />
+        <state relative-caret-position="207">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -656,26 +626,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java">
+    <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        <state relative-caret-position="247">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/DriverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1053#1061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/SearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+        <state relative-caret-position="402">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#809#817#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DataParams/ZiXuanData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/DetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DataParams/SearchData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageTest/ZiXuanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1313#1314#0" expanded="true" />
+            <element signature="e#1334#1335#0" expanded="true" />
           </folding>
         </state>
       </provider>

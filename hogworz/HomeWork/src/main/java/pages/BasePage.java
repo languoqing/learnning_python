@@ -13,6 +13,8 @@ public class BasePage {
      * @return WebElement
      */
     public AndroidElement find(By loc){
+        /*System.out.println("查找+++++"+loc);
+        System.out.printf("元素："+loc+"=========="+Driver.getdriver().findElement(loc));*/
         return Driver.getdriver().findElement(loc);
     }
 

@@ -8,6 +8,14 @@
                     <include name="findStockTest"></include>
                 </methods>
             </class>
+            <class name="PageTest.ZiXuanTest">
+                <methods>
+                    <include name="addZiXuanTest"></include>
+                </methods>
+                <methods>
+                    <include name="deleteZiXuanTest"></include>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>

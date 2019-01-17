@@ -9,6 +9,8 @@ import java.util.concurrent.TimeUnit;
 public class MainPage extends BasePage {
 
     By SeacherBar = useLoc("tv_search");
+    //自选
+    By ZiXuan = useLoc("//*[@text='自选']");
 
     /**
      * 启动driver ,到主页面
@@ -31,5 +33,15 @@ public class MainPage extends BasePage {
         find(SeacherBar).click();
         return new SearchPage();
     }
+
+    /**
+     * 到自选页面
+     * @return
+     */
+    public ZiXuanPage goZiXuanPage(){
+        find(ZiXuan).click();
+        return new ZiXuanPage();
+    }
+
 
 }

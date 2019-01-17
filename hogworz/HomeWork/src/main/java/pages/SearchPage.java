@@ -60,4 +60,14 @@ public class SearchPage extends BasePage{
         }
         return Elements;
     }
+
+    /**
+     * 去股票详情页
+     */
+    public DetailsPage goDetailsPage(String StockName){
+         List<AndroidElement> SearchResult = this.findStock(StockName);
+         SearchResult.get(0).click();
+         return new DetailsPage();
+    }
 }
+
