@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd10456b-a48d-4be0-9252-3b4abb0fae79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1768/.idea/1768.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/commn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/commn/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/commn/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/pages/fuli_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/pages/jingpin_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/pages/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/pages/search_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/pages/update_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1768/test/test_mainpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA/seleniumDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/.idea/xueqiuAppium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/driver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/driver/appium_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/pages/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/pages/mainpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/pages/searchpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/xueqiuAppium/test/searchpage_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PycharmProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PycharmProjects/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PycharmProjects/appiumpython/selenium1768/testCases/pytest_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/appiumpython/selenium1768/testCases/pytest_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PycharmProjects/leetcode/checkPerfectNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/leetcode/checkPerfectNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PycharmProjects/leetcode/countSmaller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/leetcode/countSmaller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PycharmProjects/leetcode/poorPigs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/leetcode/poorPigs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PycharmProjects/leetcode/yanghui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/leetcode/yanghui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PycharmProjects/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PycharmProjects/untitled/pythonselenium/beforgame.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PycharmProjects/untitled/pythonselenium/beforgame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XunitDemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XunitDemo/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XunitDemo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XunitDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XunitDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XunitDemo/target/classes/DemoXunit/Shopping.class" beforeDir="false" afterPath="$PROJECT_DIR$/XunitDemo/target/classes/DemoXunit/Shopping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XunitDemo/target/test-classes/TestXunit/ShoppingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/XunitDemo/target/test-classes/TestXunit/ShoppingTest.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/XunitDemo/src/test/java/TestXunit/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XunitDemo/src/test/java/LoginData/LoginParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-57" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XunitDemo/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XunitDemo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="38" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XunitDemo/src/test/java/TestXunit/ShoppingTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XunitDemo/src/test/java/LoginData/DataParams.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/XunitDemo" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xUnit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="XunitDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="XunitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="XunitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="XunitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="XunitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="LoginData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="XunitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestXunit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="XunitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd10456b-a48d-4be0-9252-3b4abb0fae79" name="Default Changelist" comment="" />
+      <created>1547517837639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547517837639</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/XunitDemo/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XunitDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XunitDemo/src/test/java/TestXunit/ShoppingTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XunitDemo/src/test/java/LoginData/DataParams.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XunitDemo/src/test/java/LoginData/LoginParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XunitDemo/src/test/java/TestXunit/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

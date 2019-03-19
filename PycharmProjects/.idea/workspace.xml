@@ -2,9 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8925ab-d775-4136-a066-b75e75555968" name="Default Changelist" comment="万年历&#10;&#10;(cherry picked from commit 2cd626d6a1197a2bfd333c586f8716b9d3e0a2af)">
+      <change afterPath="$PROJECT_DIR$/../1768/.idea/1768.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/commn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/commn/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/commn/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/pages/fuli_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/pages/jingpin_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/pages/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/pages/search_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/pages/update_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1768/test/test_mainpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/seleniumDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/.idea/xueqiuAppium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/driver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/driver/appium_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/pages/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/pages/mainpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/pages/searchpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xueqiuAppium/test/searchpage_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/pytest_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/appiumpython/selenium1768/testCases/pytest_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/checkPerfectNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/checkPerfectNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/countSmaller.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/countSmaller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/poorPigs.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/poorPigs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/yanghui.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/yanghui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/pythonselenium/beforgame.py" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/pythonselenium/beforgame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hogworz/HomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hogworz/HomeWork/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,26 +107,31 @@
     <session id="-804553938">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Python Console" value="57" />
           <entry key="ReadMe" value="29" />
           <entry key="RedeMe" value="27" />
           <entry key="dummy" value="11" />
-          <entry key="py" value="3306" />
+          <entry key="java" value="166" />
+          <entry key="py" value="4960" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JavaFX" value="166" />
           <entry key="PLAIN_TEXT" value="67" />
-          <entry key="Python" value="3306" />
+          <entry key="Python" value="5017" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -98,15 +140,19 @@
           <entry key="ReadMe" value="3" />
           <entry key="RedeMe" value="2" />
           <entry key="html" value="2" />
-          <entry key="py" value="35" />
+          <entry key="java" value="2" />
+          <entry key="py" value="49" />
+          <entry key="pyi" value="1" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
+          <entry key="JavaFX" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="35" />
+          <entry key="Python" value="49" />
+          <entry key="PythonStub" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -118,45 +164,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/loginPage.py">
+        <entry file="file://$PROJECT_DIR$/leetcode/poorPigs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-57">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="342">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding>
-                <element signature="e#24#75#0" expanded="true" />
-                <marker date="1545104015843" expanded="true" signature="647:652" ph="..." />
+                <marker date="1545795408685" expanded="true" signature="716:725" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py">
+        <entry file="file://$PROJECT_DIR$/leetcode/countSmaller.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state relative-caret-position="190">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding>
-                <element signature="e#24#75#0" expanded="true" />
-                <marker date="1545205474037" expanded="true" signature="159:164" ph="..." />
-                <marker date="1545205474037" expanded="true" signature="159:661" ph="..." />
-                <marker date="1545205474037" expanded="true" signature="1128:1137" ph="..." />
+                <element signature="e#1#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py">
+        <entry file="file://$PROJECT_DIR$/../airtest_demo/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/beforgame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/excutecase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               <folding>
-                <element signature="e#22#37#0" expanded="true" />
-                <element signature="e#970#1060#0" />
-                <marker date="1545205924661" expanded="true" signature="235:236" ph="..." />
-                <marker date="1545205924661" expanded="true" signature="235:241" ph="..." />
-                <marker date="1545205924661" expanded="true" signature="728:990" ph="..." />
-                <marker date="1545205924661" expanded="false" signature="1014:1023" ph="..." />
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/math.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python/Lib/site-packages/django/db/models/lookups.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5548">
+              <caret line="301" column="29" selection-start-line="301" selection-start-column="29" selection-end-line="301" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+              <folding>
+                <marker date="1545205903359" expanded="true" signature="44:49" ph="..." />
+                <marker date="1545205903359" expanded="true" signature="239:289" ph="..." />
               </folding>
             </state>
           </provider>
@@ -165,79 +260,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-643338342/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="2609" column="7" lean-forward="true" selection-start-line="2609" selection-start-column="7" selection-end-line="2609" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#788#847#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="241" selection-start-line="241" selection-end-line="241" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="446" column="8" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python/Lib/unittest/case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="681" column="19" selection-start-line="681" selection-start-column="8" selection-end-line="681" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/login_case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
-              <folding>
-                <element signature="e#24#87#0" expanded="true" />
-                <marker date="1545118911897" expanded="true" signature="215:216" ph="..." />
-                <marker date="1545118911897" expanded="true" signature="215:760" ph="..." />
-                <marker date="1545118911897" expanded="true" signature="797:806" ph="..." />
-                <marker date="1545118911897" expanded="true" signature="1247:2407" ph="..." />
-                <marker date="1545118911897" expanded="true" signature="1725:2407" ph="..." />
-                <marker date="1545118911897" expanded="true" signature="2202:2407" ph="..." />
-                <marker date="1545118911897" expanded="true" signature="2430:2439" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <marker date="1545205903359" expanded="true" signature="44:49" ph="..." />
-                <marker date="1545205903359" expanded="true" signature="239:289" ph="..." />
-              </folding>
+            <state relative-caret-position="9101">
+              <caret line="479" column="4" selection-start-line="479" selection-start-column="4" selection-end-line="479" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -265,6 +289,7 @@
       <find>ipt_yazhu</find>
       <find>NoSuchElementException</find>
       <find>assertTrue</find>
+      <find>ceil</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -274,14 +299,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/UiAutomatorPython/test.py" />
-        <option value="$PROJECT_DIR$/UiAutomatorPython/uidump.xml" />
-        <option value="$PROJECT_DIR$/spider.py" />
-        <option value="D:/Python/Lib/site-packages/threadpool.py" />
-        <option value="$PROJECT_DIR$/spider/threadtest.py" />
-        <option value="$PROJECT_DIR$/scrapyproject.py" />
-        <option value="$PROJECT_DIR$/scrapyprojct/wyMusic/wyMusic/spiders/demowyMusic.py" />
-        <option value="D:/Python/Lib/site-packages/twisted/conch/manhole.py" />
         <option value="$PROJECT_DIR$/leetcode/strStr.py" />
         <option value="$PROJECT_DIR$/leetcode/jioupaixu.py" />
         <option value="$PROJECT_DIR$/leetcode/threeSum.py" />
@@ -310,7 +327,6 @@
         <option value="$PROJECT_DIR$/leetcode/test.py" />
         <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/appiumpython/redcenterMahjongTest.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="D:/Python/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
         <option value="D:/Python/Lib/HTMLTestRunner.py" />
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/testCases/a.py" />
@@ -324,7 +340,16 @@
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/testCases/login_case.py" />
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py" />
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py" />
+        <option value="$PROJECT_DIR$/leetcode/yanghui.py" />
+        <option value="$PROJECT_DIR$/appiumpython/selenium1768/testCases/pytest_case.py" />
         <option value="$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py" />
+        <option value="$PROJECT_DIR$/leetcode/checkPerfectNumber.py" />
+        <option value="$PROJECT_DIR$/leetcode/poorPigs.py" />
+        <option value="$PROJECT_DIR$/leetcode/countSmaller.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$USER_HOME$/Desktop/a.java" />
+        <option value="$USER_HOME$/Desktop/demmo.java" />
+        <option value="$PROJECT_DIR$/untitled/pythonselenium/beforgame.py" />
       </list>
     </option>
   </component>
@@ -350,38 +375,6 @@
               <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="appiumpython" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="appiumpython" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium1768" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="appiumpython" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium1768" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="appiumpython" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium1768" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="appiumpython" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium1768" type="462c0819:PsiDirectoryNode" />
-              <item name="testCases" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -391,7 +384,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="pytest.mark.parametrize&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../airtest_demo/demo.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -406,91 +399,126 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet">
-    <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_gamepage" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="checkPerfectNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appiumpython/selenium1768/testCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;game_yaoyiyao_case.YaoyiyaoGameTest.test_gamepage&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/checkPerfectNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="countSmaller" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appiumpython/selenium1768/testCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/countSmaller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="poorPigs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appiumpython/selenium1768/testCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/poorPigs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for login_case.LoginTest.test_loginQQ" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appiumpython/selenium1768/testCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled/pythonselenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;login_case.LoginTest.test_loginQQ&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/pythonselenium/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in game_yaoyiyao_case.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appiumpython/selenium1768/testCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" />
-      <item itemvalue="Python tests.Unittests for login_case.LoginTest.test_loginQQ" />
-      <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_gamepage" />
-      <item itemvalue="Python tests.Unittests in game_yaoyiyao_case.py" />
-      <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.checkPerfectNumber" />
+      <item itemvalue="Python.poorPigs" />
+      <item itemvalue="Python.countSmaller" />
+      <item itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_wrongbet" />
-        <item itemvalue="Python tests.Unittests in game_yaoyiyao_case.py" />
-        <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_isgamelogin" />
-        <item itemvalue="Python tests.Unittests for game_yaoyiyao_case.YaoyiyaoGameTest.test_gamepage" />
-        <item itemvalue="Python tests.Unittests for login_case.LoginTest.test_loginQQ" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.countSmaller" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.poorPigs" />
+        <item itemvalue="Python.checkPerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -559,7 +587,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.29863483" visible="true" weight="0.21428572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.29863483" visible="true" weight="0.20833333" />
       <window_info id="Favorites" order="1" sideWeight="0.7013652" side_tool="true" weight="0.23660715" />
       <window_info id="Structure" order="2" sideWeight="0.68430036" weight="0.24330357" />
       <window_info id="Project Explorer" order="3" sideWeight="0.49829352" weight="0.3296131" />
@@ -567,13 +595,13 @@
       <window_info id="Job Explorer" order="5" sideWeight="0.41467577" weight="0.3296131" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49776787" visible="true" weight="0.44615385" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49776787" weight="0.44615385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36752138" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32820514" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.8888889" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49776787" weight="0.2957265" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49776787" weight="0.29351535" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32820514" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50223213" side_tool="true" weight="0.32935154" />
       <window_info anchor="bottom" id="Console" order="11" />
@@ -664,84 +692,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Python/Lib/site-packages/docopt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2223">
-          <caret line="118" column="8" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-643338342/_collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apitest/.pytest_cache/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/_pytest/fixtures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="1046" column="4" selection-start-line="1046" selection-start-column="4" selection-end-line="1046" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/annotationconfig.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/support/wait.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/appium/webdriver/common/touch_action.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/appium/webdriver/switch_to.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/appium/webdriver/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="91" column="19" lean-forward="true" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/command.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loginweb/loginweb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.sql" />
     <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/image/a.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UiAutomatorPython/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/untitled/forTest.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -750,29 +703,8 @@
     <entry file="file://$PROJECT_DIR$/untitled/testurlconnect.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/excutecase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" selection-start-column="48" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/loger.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/beforgame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="67" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -783,16 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding>
-            <marker date="1544600956226" expanded="true" signature="31:36" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -878,9 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
-          <folding>
-            <marker date="1545114901824" expanded="true" signature="207:212" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -895,16 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
-          <folding>
-            <element signature="e#24#87#0" expanded="true" />
-            <marker date="1545118911897" expanded="true" signature="215:216" ph="..." />
-            <marker date="1545118911897" expanded="true" signature="215:760" ph="..." />
-            <marker date="1545118911897" expanded="true" signature="797:806" ph="..." />
-            <marker date="1545118911897" expanded="true" signature="1247:2407" ph="..." />
-            <marker date="1545118911897" expanded="true" signature="1725:2407" ph="..." />
-            <marker date="1545118911897" expanded="true" signature="2202:2407" ph="..." />
-            <marker date="1545118911897" expanded="true" signature="2430:2439" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -912,34 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-57">
           <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="e#24#75#0" expanded="true" />
-            <marker date="1545104015843" expanded="true" signature="647:652" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="446" column="8" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#788#847#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,17 +831,152 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/yanghui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4579">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/checkPerfectNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/pytest_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11761">
+          <caret line="629" column="8" selection-start-line="629" selection-start-column="8" selection-end-line="629" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://D:/Python/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
+        <state relative-caret-position="12692">
           <caret line="681" column="19" selection-start-line="681" selection-start-column="8" selection-end-line="681" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/demmo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/bisect.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiAutomatorPython/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-643338342/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/poorPigs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <marker date="1545795408685" expanded="true" signature="716:725" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/countSmaller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/beforgame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/excutecase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/math.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/django/db/models/lookups.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5548">
+          <caret line="301" column="29" selection-start-line="301" selection-start-column="29" selection-end-line="301" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/BasePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="380">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding>
             <marker date="1545205903359" expanded="true" signature="44:49" ph="..." />
             <marker date="1545205903359" expanded="true" signature="239:289" ph="..." />
@@ -970,36 +986,25 @@
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-643338342/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2609" column="7" lean-forward="true" selection-start-line="2609" selection-start-column="7" selection-end-line="2609" selection-end-column="7" />
+        <state relative-caret-position="9101">
+          <caret line="479" column="4" selection-start-line="479" selection-start-column="4" selection-end-line="479" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/pages/gameyaoyiyao.py">
+    <entry file="file://$PROJECT_DIR$/untitled/pythonselenium/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="95">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding>
-            <element signature="e#24#75#0" expanded="true" />
-            <marker date="1545205474037" expanded="true" signature="159:164" ph="..." />
-            <marker date="1545205474037" expanded="true" signature="159:661" ph="..." />
-            <marker date="1545205474037" expanded="true" signature="1128:1137" ph="..." />
+            <element signature="e#1#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appiumpython/selenium1768/testCases/game_yaoyiyao_case.py">
+    <entry file="file://$PROJECT_DIR$/../airtest_demo/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="e#22#37#0" expanded="true" />
-            <element signature="e#970#1060#0" />
-            <marker date="1545205924661" expanded="true" signature="235:236" ph="..." />
-            <marker date="1545205924661" expanded="true" signature="235:241" ph="..." />
-            <marker date="1545205924661" expanded="true" signature="728:990" ph="..." />
-            <marker date="1545205924661" expanded="false" signature="1014:1023" ph="..." />
-          </folding>
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

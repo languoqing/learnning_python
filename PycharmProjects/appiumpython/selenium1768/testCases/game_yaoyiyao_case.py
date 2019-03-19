@@ -8,6 +8,7 @@ from appiumpython.selenium1768.pages import gameyaoyiyao
 
 class YaoyiyaoGameTest(unittest.TestCase):
 
+    
     game_url = "http://m.1768.com/?act=game_shaizile"
     
     @classmethod

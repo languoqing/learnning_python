@@ -1,0 +1,5 @@
+STF
+    STF安装，依赖node环境，8.x的版本
+
+查看当前的activity
+    adb shell dumpsys activity activities | sed -En -e '/Running activities/,/Run #0/p'

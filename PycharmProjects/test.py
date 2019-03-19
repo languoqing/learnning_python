@@ -1,6 +1,5 @@
+import bisect
 
-s = (1,3)
-def sd(a = 1,c = 2):
-    print(a+c)
-
-sd(s)
+nums = [1, 8, 3, 4, 5, 6, 8, 9]
+new = nums[0:len(nums)]
+print(new)
